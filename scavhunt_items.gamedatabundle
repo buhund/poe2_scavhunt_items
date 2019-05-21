@@ -1,0 +1,70 @@
+{
+  "GameDataObjects": [
+    {
+      "$type": "Game.GameData.PromotionalItemCollectionGameData, Assembly-CSharp",
+      "DebugName": "Scavhunt_items",
+      "ID": "c68bba4c-fd44-4334-aedc-a11d2680f707",
+      "Components": [
+        {
+          "$type": "Game.GameData.PromotionalItemCollectionComponent, Assembly-CSharp",
+          "PromotionalItemCollections": {
+            "PromotionalItemCollection": [
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "a7d0a04f-723d-46fa-9b84-46957e4c32a0"
+              },			
+              {
+                "Quantity": 20,
+                "ItemReferenceID": "2536658d-34db-4eee-842d-5ae4a9fed342"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "b1d7737e-0afe-4425-8ef3-d212baba6a4d"
+              },
+              {
+                "Quantity": 3,
+                "ItemReferenceID": "03ff06a3-2638-41b7-915a-c8d00b036144"
+              }, 			  
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "81be7ecf-e7b9-4665-8cbc-2008fabb3d53"
+              }, 			  
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "0e7e8433-fdce-42cf-9f3a-8ac0646e958c"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "c080ed6a-4b70-4732-aeea-16a649adcddf"
+              },
+              {
+                "Quantity": 5,
+                "ItemReferenceID": "2ec0e67b-1613-47d4-8c46-0c1bf7ac7d7f"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "e40e699a-7f23-466e-8b1b-377ea56e025a"
+              },			  
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "8bfd157d-ea1c-4fae-b81d-c54fc9418b88"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "5d3c84dd-3d9d-4a17-8b40-300d05b13a2c"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "f0509b86-bad5-465b-af78-63908f077307"
+              },
+              {
+                "Quantity": 1,
+                "ItemReferenceID": "7c34ac17-08e9-4bde-87ef-16c8d5c5a8dc"
+              }			  
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
