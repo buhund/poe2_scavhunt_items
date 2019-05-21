@@ -49,3 +49,7 @@ Credit goes to [Deus_Ex](https://forums.obsidian.net/user/114457-deus-ex/) on th
 >
 > 
 > Here is the file to get your items. https://www.dropbox.com/s/3koid0jz7id32us/Scavhunt_items.zip?dl=0
+
+____
+
+Backup repo: https://gitlab.com/iverik/poe2_scavhunt_items
